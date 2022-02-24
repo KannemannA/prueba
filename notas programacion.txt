@@ -1,0 +1,4 @@
+css
+iterar entre los elemetos de un counteiner:
+nombre:first-child{	selecciona el primer elemento
+nombre:nth-child(*){	selecciona el  item dependiendo del numero entre parentesis

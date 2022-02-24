@@ -1,0 +1,33 @@
+* {
+	font-family: 'Pacifico', cursive;
+	margin:  20px 10px;
+}
+
+h2 {
+	background-color: red;
+	display: inline-block;
+	padding: 50px;
+	border-radius: 50%;
+	border: 5px inset green;
+}
+body {
+	background: radial-gradient(circle,#f24,blueviolet);
+
+}
+.imagen {
+	margin: 25px;
+	width: 380px;
+	height: 200px;
+}
+
+.imagen img {
+	height: 100%;
+	width: 100%;
+	border: 2px solid limegreen;
+	object-fit: contain;
+}
+.titulo {
+	display: inline-block;
+	border: 3px solid lightcyan;
+	background-color: #D7F801;
+}
